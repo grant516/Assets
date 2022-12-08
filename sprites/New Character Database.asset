@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f042c0f6e79f6e546ad4b65a5e08d468, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Ana
+    characterSprite: {fileID: 268953463, guid: b59356f6a371a9b4993a536e16de2de9, type: 3}
+  - characterName: Elyssa
+    characterSprite: {fileID: 1169583151, guid: f79f0cb2d2ae37c46af89bc46872b34e, type: 3}
+  - characterName: Grant
+    characterSprite: {fileID: -1975542233, guid: bf7fcaa0bf2ab774f9f7f0928537afdf, type: 3}
+  - characterName: Sai
+    characterSprite: {fileID: 2085935433, guid: 7143157103f40284daa84694e5db2e60, type: 3}
+  - characterName: Ashley
+    characterSprite: {fileID: 1262405597, guid: d905dc116d70dff4297b246a60d32182, type: 3}
