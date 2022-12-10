@@ -1,17 +1,13 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.}
-
-{Provide a description of your team project.  Describe how to use the software.}
+This software is a GitHub game made to help kids learn and practice their math operators. They do this by going through a maze and encountering doors that will ask them a math question. Once they answer the question correctly, they are allowed access through the door. Once they complete the maze, a certificate is given to the player showing they finished the educational maze.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
 * C#
 * Unity
 * Plastic SCM
+* Git/GitHub
 
 # Collaborators
 
@@ -24,14 +20,15 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Plastic SCM](https://www.plasticscm.com/)
+* [C# W3Schools](https://www.w3schools.com/cs/index.php)
+* [Unity YouTube Tutorials](https://www.youtube.com/@Dani_Krossing)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 * Finish the character selection feature so the user can choose which charter to play as
 * Add more doors inside the Maze
-* Item 2
-* Item 3
+* Adding additional levels
+* Finishing the question prompt feature when trying to open a door
+* Adding music
